@@ -1,0 +1,108 @@
+repo_name: martin-creator/pluralsight-designing-react-components-course-code
+report_id: 50dee2afe4f6b13ffe51cbdd0da4db6e
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:52:39+00:00'
+requested_by: pkellner
+provider: github
+branch: master
+detected_tools_count: 8
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/martin-creator/pluralsight-designing-react-components-course-code
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/martin-creator/pluralsight-designing-react-components-course-code
+  detection_source: Repo Metadata
+- name: Next.js
+  description: A small framework for server-rendered universal JavaScript apps
+  website_url: https://nextjs.org/
+  version: 10.2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/5936/nextjs.png
+  detection_source_url: https://github.com/martin-creator/pluralsight-designing-react-components-course-code/blob/master/02-designing-better-components/clip-02-setting-up-our-dev-environment/package.json
+  detection_source: 02-designing-better-components/clip-02-setting-up-our-dev-environment/package.json
+  last_updated_by: pkellner
+  last_updated_on: 2020-05-26 01:08:16.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 17.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/martin-creator/pluralsight-designing-react-components-course-code/blob/master/02-designing-better-components/clip-02-setting-up-our-dev-environment/package.json
+  detection_source: 02-designing-better-components/clip-02-setting-up-our-dev-environment/package.json
+  last_updated_by: pkellner
+  last_updated_on: 2021-05-10 19:03:37.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/martin-creator/pluralsight-designing-react-components-course-code
+  detection_source: Repo Metadata
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/martin-creator/pluralsight-designing-react-components-course-code/blob/master/06-context-and-rest-api/clip-08-updating-useRequest-for-rest-to-api-routes/package.json
+  detection_source: 06-context-and-rest-api/clip-08-updating-useRequest-for-rest-to-api-routes/package.json
+  last_updated_by: pkellner
+  last_updated_on: 2021-05-10 19:03:37.000000000 Z
+- name: axios
+  description: Promise based HTTP client for the browser and node.js
+  website_url: https://github.com/mzabriskie/axios
+  version: 0.21.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/martin-creator/pluralsight-designing-react-components-course-code/blob/master/06-context-and-rest-api/clip-08-updating-useRequest-for-rest-to-api-routes/package.json
+  detection_source: 06-context-and-rest-api/clip-08-updating-useRequest-for-rest-to-api-routes/package.json
+  last_updated_by: pkellner
+  last_updated_on: 2021-05-10 19:03:37.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 17.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/martin-creator/pluralsight-designing-react-components-course-code/blob/master/02-designing-better-components/clip-02-setting-up-our-dev-environment/package.json
+  detection_source: 02-designing-better-components/clip-02-setting-up-our-dev-environment/package.json
+  last_updated_by: pkellner
+  last_updated_on: 2021-05-10 19:03:37.000000000 Z
