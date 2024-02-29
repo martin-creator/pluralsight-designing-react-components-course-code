@@ -2,7 +2,7 @@ repo_name: martin-creator/pluralsight-designing-react-components-course-code
 report_id: 50dee2afe4f6b13ffe51cbdd0da4db6e
 version: 0.1
 repo_type: Public
-timestamp: '2024-02-04T08:03:46+00:00'
+timestamp: '2024-02-29T19:52:39+00:00'
 requested_by: pkellner
 provider: github
 branch: master
@@ -30,7 +30,7 @@ tools:
   detection_source_url: https://github.com/martin-creator/pluralsight-designing-react-components-course-code
   detection_source: Repo Metadata
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 10.2.0
   open_source: true
